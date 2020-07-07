@@ -1,0 +1,25 @@
+.text-judul {
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    outline: none;
+    color: #42b549;
+    white-space: nowrap;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+}
+
+.header-bg {
+    background-image: url("../background-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 660px;
+    width: 100%;
+}
